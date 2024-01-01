@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main{
     public void solve(int [][]graph,int n)
-    {
+    { 
                int [][]dis=new int [n][n];
        
        for(int i=0;i<n;i++)
